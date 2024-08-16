@@ -213,3 +213,25 @@ export const JULY_DATA = [
     projectImage: requireContext("./july/webp/edge.webp"),
   },
 ];
+// --------/ August /--------//
+export const AUGUST_DATA = [
+  {
+    projectName: "Clever-Travel-Live",
+    hrefGithub: "https://github.com/neharadialcode486/clever-travel.git",
+    hrefLiveLink: "https://hub-rich.vercel.app/",
+    projectImage: requireContext("./august/webp/travel.webp"),
+  },
+  {
+    projectName: "Connection-HTML-Live",
+    hrefGithub:
+      "https://github.com/Radial-code/connections-made-easy--html.git",
+    hrefLiveLink: "https://hyperleen-next.vercel.app/",
+    projectImage: requireContext("./august/webp/connection.webp"),
+  },
+  {
+    projectName: "Pometry",
+    hrefGithub: "https://github.com/Ritik-455/Pometry.git",
+    hrefLiveLink: "https://pometry-01.vercel.app/",
+    projectImage: requireContext("./august/webp/pometry.webp"),
+  },
+];

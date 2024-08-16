@@ -3,6 +3,7 @@ import GithubIcon from "../assets/img/svg/git-icon.svg";
 import LiveIcon from "../assets/img/svg/live link.svg";
 import {
   APRIL_DATA,
+  AUGUST_DATA,
   FEBRUARY_DATA,
   JANUARY_DATA,
   JULY_DATA,
@@ -19,6 +20,7 @@ const monthData = {
   May: MAY_DATA,
   June: JUNE_DATA,
   July: JULY_DATA,
+  August: AUGUST_DATA,
 };
 
 const Sheet = ({ selectedMonth }) => {

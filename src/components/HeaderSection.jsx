@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import Navbar from "./Navbar";
 import Sheet from "./Sheet";
 const HeaderSection = () => {
-  const [selectedMonth, setSelectedMonth] = useState("July");
+  const [selectedMonth, setSelectedMonth] = useState("August");
   const handleSelectMonth = (month) => {
     setSelectedMonth(month);
   };
