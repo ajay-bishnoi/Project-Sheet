@@ -225,7 +225,7 @@ export const AUGUST_DATA = [
     projectName: "Connection-HTML-Live",
     hrefGithub:
       "https://github.com/Radial-code/connections-made-easy--html.git",
-    hrefLiveLink: "https://hyperleen-next.vercel.app/",
+    hrefLiveLink: "https://connections-made-easy-html.web.app/",
     projectImage: requireContext("./august/webp/connection.webp"),
   },
   {
