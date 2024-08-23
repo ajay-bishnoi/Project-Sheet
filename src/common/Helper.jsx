@@ -218,7 +218,7 @@ export const AUGUST_DATA = [
   {
     projectName: "Clever-Travel-Live",
     hrefGithub: "https://github.com/neharadialcode486/clever-travel.git",
-    hrefLiveLink: "https://hub-rich.vercel.app/",
+    hrefLiveLink: "",
     projectImage: requireContext("./august/webp/travel.webp"),
   },
   {
@@ -233,5 +233,18 @@ export const AUGUST_DATA = [
     hrefGithub: "https://github.com/Ritik-455/Pometry.git",
     hrefLiveLink: "https://pometry-01.vercel.app/",
     projectImage: requireContext("./august/webp/pometry.webp"),
+  },
+  {
+    projectName: "Herbert",
+    hrefGithub: "https://github.com/Ritik-455/herbert.git",
+    hrefLiveLink: "https://herbert-chi.vercel.app/",
+    projectImage: requireContext("./august/webp/herbert.webp"),
+  },
+  {
+    projectName: "Gsap",
+    hrefGithub: "https://github.com/ajay-bishnoi/gsap-fanta.git",
+    hrefLiveLink:
+      "https://gsap-fanta-git-main-ajay-bishnois-projects.vercel.app/",
+    projectImage: requireContext("./august/webp/gsap.webp"),
   },
 ];
